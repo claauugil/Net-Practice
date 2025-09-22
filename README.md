@@ -102,15 +102,42 @@ Máscara: 255.255.255.0
 - En NetPractice: si no configuras el gateway correcto en un host, no podrá comunicarse con otras redes, solo con su propia subred.
   
 ## 6️⃣ Levels
-Aquí tienes un resumen de los niveles con enlaces a las imágenes:  
+**Nivel 1**
 
 ![Nivel 1](media/level1.png)  
+
+**Nivel 2**  
+
 ![Nivel 2](media/level2.png)  
+
+**Nivel 3** 
+
 ![Nivel 3](media/level3.png)  
+
+**Nivel 4**  
+
 ![Nivel 4](media/level4.png)  
+
+**Nivel 5**  
+
 ![Nivel 5](media/level5.png)  
+
+**Nivel 6**  
+
 ![Nivel 6](media/level6.png)  
+
+**Nivel 7**  
+
 ![Nivel 7](media/level7.png)  
+
+**Nivel 8** 
+
 ![Nivel 8](media/level8.png)  
+
+**Nivel 9**  
+
 ![Nivel 9](media/level9.png)  
-![Nivel 10 ](media/level10.png)  
+
+**Nivel 10**  
+
+![Nivel 10](media/level10.png)  
