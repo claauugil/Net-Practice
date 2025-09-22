@@ -104,13 +104,13 @@ Máscara: 255.255.255.0
 ## 6️⃣ Levels
 Aquí tienes un resumen de los niveles con enlaces a las imágenes:  
 
-1. [Nivel 1](media/level1.png)  
-2. [Nivel 2](media/level2.png)  
-3. [Nivel 3](media/level3.png)  
-4. [Nivel 4](media/level4.png)  
-5. [Nivel 5](media/level5.png)  
-6. [Nivel 6](media/level6.png)  
-7. [Nivel 7](media/level7.png)  
-8. [Nivel 8](media/level8.png)  
-9. [Nivel 9](media/level9.png)  
-10. [Nivel 10 ](media/level10.png)  
+[Nivel 1](media/level1.png)  
+[Nivel 2](media/level2.png)  
+[Nivel 3](media/level3.png)  
+[Nivel 4](media/level4.png)  
+[Nivel 5](media/level5.png)  
+[Nivel 6](media/level6.png)  
+[Nivel 7](media/level7.png)  
+[Nivel 8](media/level8.png)  
+[Nivel 9](media/level9.png)  
+[Nivel 10 ](media/level10.png)  
