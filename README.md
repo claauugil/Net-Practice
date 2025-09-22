@@ -1,6 +1,6 @@
-# 🌐 NetPractice - Guía Rápida
+# 🌐 NetPractice
 
-Mini guía para entender el proyecto **NetPractice (42 Madrid)**.  
+Mini guía para entender el proyecto **NetPractice**.  
 
 ---
 
