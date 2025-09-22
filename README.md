@@ -104,13 +104,13 @@ Máscara: 255.255.255.0
 ## 6️⃣ Levels
 Aquí tienes un resumen de los niveles con enlaces a las imágenes:  
 
-1. [Nivel 1 - Introducción a IPs](https://example.com/nivel1.png)  
-2. [Nivel 2 - Subredes básicas](https://example.com/nivel2.png)  
-3. [Nivel 3 - Conexión con switch](https://example.com/nivel3.png)  
-4. [Nivel 4 - Primer router](https://example.com/nivel4.png)  
-5. [Nivel 5 - Gateway y salida](https://example.com/nivel5.png)  
-6. [Nivel 6 - Rutas múltiples](https://example.com/nivel6.png)  
-7. [Nivel 7 - Máscaras avanzadas](https://example.com/nivel7.png)  
-8. [Nivel 8 - Red con varios routers](https://example.com/nivel8.png)  
-9. [Nivel 9 - Acceso a Internet](https://example.com/nivel9.png)  
-10. [Nivel 10 - Configuración completa](https://example.com/nivel10.png)  
+1. [Nivel 1 - Introducción a IPs](media/level1png)  
+2. [Nivel 2 - Subredes básicas](media/level2png)  
+3. [Nivel 3 - Conexión con switch](media/level3png)  
+4. [Nivel 4 - Primer router](media/level4png)  
+5. [Nivel 5 - Gateway y salida](media/level5png)  
+6. [Nivel 6 - Rutas múltiples](media/level6png)  
+7. [Nivel 7 - Máscaras avanzadas](media/level7png)  
+8. [Nivel 8 - Red con varios routers](media/level8png)  
+9. [Nivel 9 - Acceso a Internet](media/level9png)  
+10. [Nivel 10 - Configuración completa](media/level10png)  
